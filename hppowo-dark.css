@@ -1,35 +1,29 @@
-/* OwO.min.css | https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@a02d199/OwO.min.css */
-
+/* OwO dark */
 .OwO .OwO-body .OwO-items {
-  background-color: #282c3f!important;;
+  background-color: #282c3f!important;
 }
 
 .OwO .OwO-body .OwO-bar .OwO-packages {
-  background-color: #202940!important;;
-  color: #ffffff8a!important;;
+  background-color: #202940!important;
+  color: #ffffff8a!important;
 }
 
 .OwO .OwO-body .OwO-bar .OwO-packages li:hover {
-  /* background: #eee; */
-  background: #5f667b!;
+  background: #5f667b!important;
 }
 
 .OwO .OwO-body .OwO-bar .OwO-packages .OwO-package-active {
-  /* background: #eee; */
-  background: #3a4155!important;;
+  background: #3a4155!important;
 }
 
 .OwO .OwO-body .OwO-items .OwO-item:hover {
-  /* background: #eee; */
-  background: #526390!important;;
+  background: #526390!important;
 }
 
 .OwO .OwO-body .OwO-items .OwO-item {
-  /* background: #f7f7f7; */
-  background: #f7f7f717!important;;
+  background: #f7f7f717!important;
 }
 
 .OwO .OwO-body {
-  /* border: 1px solid #ddd; */
-  border: 1px solid #5f667b!important;;
+  border: 1px solid #5f667b!important;
 }
