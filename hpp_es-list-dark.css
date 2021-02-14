@@ -1,0 +1,11 @@
+/* hpp_es-list-dark */
+
+.es-list {
+  border: 1px solid #202940!important;
+  background: #202940!important;
+  box-shadow: 0 2px 3px #2e364b!important;
+}
+
+.es-list li.selected {
+  background-color: #2e364b!important;
+}
